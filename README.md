@@ -23,7 +23,7 @@ Aqui estão alguns projetos que estou desenvolvendo e que refletem meu aprendiza
 
 Vamos nos conectar! Você pode me encontrar nas redes sociais:
 
-- [Instagram](link-do-instagram)
+- [Instagram](https://www.instagram.com/coopegih/profilecard/?igsh=bWVlaTIyYzd5OHZ4)
 - [Facebook](link-do-facebook)
 - [WhatsApp](link-do-whatsapp)
 - [TikTok](link-do-tiktok)
