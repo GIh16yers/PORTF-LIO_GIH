@@ -26,7 +26,7 @@ Vamos nos conectar! Você pode me encontrar nas redes sociais:
 - [Instagram](https://www.instagram.com/coopegih/profilecard/?igsh=bWVlaTIyYzd5OHZ4)
 - [Facebook](https://www.facebook.com/profile.php?id=100089296385847&mibextid=ZbWKwL)
 - [WhatsApp](https://wa.me/qr/E7QO57NGIVGNF1)
-- [TikTok](link-do-tiktok)
+- [TikTok](https://www.tiktok.com/@gihcoper?_t=8r234IpRCDN&_r=1)
 
 ## Contato
 
