@@ -1,7 +1,7 @@
 # PORTFOLIO_GIH
 ENFERMAGEM
 
-# Olá, eu sou [Seu Nome]!
+# Olá, eu me chamo Gih!
 
 👩‍⚕️ Sou estudante de Enfermagem e estou entusiasmada para fazer a diferença na área da saúde. Neste repositório, você encontrará projetos, estudos e materiais relacionados à enfermagem.
 
@@ -15,9 +15,8 @@ ENFERMAGEM
 
 Aqui estão alguns projetos que estou desenvolvendo e que refletem meu aprendizado e interesse pela enfermagem:
 
-- [Projeto 1](link-do-projeto-1)
-- [Projeto 2](link-do-projeto-2)
-- [Projeto 3](link-do-projeto-3)
+- [Projeto 1] Ajudar a aprimorar a área de saúde trazendo bem estar ao próximo
+- [Projeto 2] Fazer com que as filas de espera sejam mais rápidas e eficazes
 
 ## Conecte-se Comigo
 
